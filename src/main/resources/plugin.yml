@@ -1,3 +1,6 @@
 name: CraftableObsidian
-main: Main
-version: 1
+main: io.github.davidqf555.minecraft.craftableobsidian.Main
+version: 1.0.0
+description: Adds craftable obsidian
+author: DavidQF555
+website: https://github.com/DavidQF555/CraftableObsidian
